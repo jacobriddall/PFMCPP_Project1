@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: oven
+//  action 1: the oven heats food
+oven.heats();
+//  action 2: the oven cooks
+oven.cooks();
+//  action 3: the oven burns
+oven.burnsFood();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: boat
+//  action 1: the boat floats
+boat.floats();
+//  action 2: the boat travels
+boat.travel();
+//  action 3: the boat sails
+boat.sails()/;
+//  3) 
+//  Noun: plant
+//  action 1: grows
+plant.grow();
+//  action 2: the plant breathes
+plant.breathes();
+//  action 3: the plant lives
+plant.lives();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: ocean
+//  action 1: the ocean flows
+ocean.flow();
+//  action 2: supports life
+ocean.supportLife();
+//  action 3: absorbs carbon
+ocean.absorbs();
+//  5) 
+//  Noun: castle
+//  action 1: the castle protects
+castle.protects();
+//  action 2: the castle provides shelter
+castle.shelteres();
+//  action 3: the castle hides people
+castle.hides();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: drink
+//  action 1: the drink provides nourishment
+drink.nourishes();
+//  action 2: the drink hydrates
+drink.hydrates();
+//  action 3: the drinks tastes good
+drink.tastesGood();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: socks
+//  action 1: socks maintain body temperature
+socks.maintainHeat();
+//  action 2: provide warmth
+socks.warm();
+//  action 3: socks protect your skin
+socks.protects();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: matkatmusic
+//  action 1: matkatmusic teaches code
+matkatmusic.teaches();
+//  action 2: matkatmusic creates apps
+matkatmusic.creates();
+//  action 3: matkatmusic plays piano
+matkatmusic.playsPiano();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: boris
+//  action 1: lies
+boris.lies();
+//  action 2: boris makes rules
+boris.makesRules();
+//  action 3: boris dissapoints
+boris.dissapoints();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: camera
+//  action 1: the camera catptures light
+camera.captures();
+//  action 2: the camera clicks loudly
+camera.clicksLoudly();
+//  action 3: the camera processes
+camera.processes();
 
 
 #endif
