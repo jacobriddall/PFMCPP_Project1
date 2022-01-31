@@ -66,7 +66,7 @@ boat.floats();
 //  action 2: the boat travels
 boat.travel();
 //  action 3: the boat sails
-boat.sails()/;
+boat.sails();
 //  3) 
 //  Noun: plant
 //  action 1: grows
@@ -104,17 +104,17 @@ drink.tastesGood();
 //  action 1: socks maintain body temperature
 socks.maintainHeat();
 //  action 2: provide warmth
-socks.warm();
+socks.provideWarmth();
 //  action 3: socks protect your skin
-socks.protects();
+socks.protect();
 //  8)
-//  Noun: matkatmusic
-//  action 1: matkatmusic teaches code
-matkatmusic.teaches();
-//  action 2: matkatmusic creates apps
-matkatmusic.creates();
-//  action 3: matkatmusic plays piano
-matkatmusic.playsPiano();
+//  Noun: the president
+//  action 1: the president teaches people
+thePresident.teaches();
+//  action 2: the president controls the law
+thePresident.controlsLaw();
+//  action 3: the president plays football
+thePresident.playsFootball();
 //  9)
 //  Noun: boris
 //  action 1: lies
